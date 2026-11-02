@@ -5,8 +5,8 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=VERSAO%20BETA%20|%20v2%20|%2029/10/2026&color=purple&style=for-the-badge"/>
 
 </div>
-<h2 align="center">
-Desafio 2 | MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable<br>
+<h3 align="center">
+Desafio 2  |  MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable<br>
   
 `[ Bootcamp | Construa seu primeiro App com IA ]`<br>
   *Santander em parceria com a plataforma da DIO* 
@@ -195,8 +195,9 @@ O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2
 | ✔️ | **Captura de tela 2: formulário de perfil** | [`print_tela/formulario_perfil.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/77b5a62c3b1a5789aa615f7159660994bab38c90/print_tela/formulario_perfil.png) |
 | ✔️ | **Captura de tela 3: conversão via Whatsapp** | [`print_tela/conversao_whatsapp.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/04ea83593bfa5ec2b9051c80afa0fe24f6f329fa/print_tela/conversao_whatsapp.png) |
 | ✔️ | **Captura de tela 4: painel admin (leads, clientes, entregas e lembretes)** | [`print_tela/painel_admin.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/331e9ed830fffb8e2274853a34a3a1a0339dc27e/print_tela/painel_admin.png) |
-| ✔️ | **Segurança da Informação sem chaves de API expostas ou senhas salvas** | [Nenhum problema de Segurança encontrado] |
+| ✔️ | **Revisão de segurança do Lovable** | [Nenhum Problema de Segurança Encontrado] |
 | ✔️ | **Endereço da aplicação publicada** | [Link da Aplicação no Lovable](https://agentex-mvp-beta.lovable.app) |
+| ✔️ | **Repositório técnico (código bruto ) do software exportado e gerado por IA (Lovable)** | [Acessar Código-Fonte do Software](https://github.com/Kat-Ak/agentex-mvp-beta)
 
 ## 🏆 Conclusão | Melhorias & Próximos Passos
 
