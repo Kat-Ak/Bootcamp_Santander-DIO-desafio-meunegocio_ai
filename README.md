@@ -1,33 +1,37 @@
 <div align="center">
 
 # 🌐 AGENTEX | O gerenciador de fluxo de e-mail ideal para o comércio exterior
-
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=VERSAO%20BETA%20|%20v2%20|%2029/10/2026&color=purple&style=for-the-badge"/>
-
-</div>
-<h3 align="center">
-Desafio 2  |  MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable<br>
-  
-`[ Bootcamp | Construa seu primeiro App com IA ]`<br>
-  *Santander em parceria com a plataforma da DIO* 
+<div></div>
+<br>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=VERSAO%20BETA%20|%20v2%20|%2029/10/2026&color=purple&style=for-the-badge"/><br>
 <p align="center">
-  </div>
+ 
+  ---
+
+> ### `Desafio 2  |  MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable` 
+> ###  [ Bootcamp | Construa seu primeiro App com IA ]
+> ###  *Santander em parceria com a plataforma da DIO*
   
 ---
+
 ## 📟 Resumo do Enunciado
 
 A proposta desse desafio é **construir do zero um [MVP](#mvp) (Mínimo Produto Viável) de um produto digital real utilizando a IA como [Co-Founder](#co-founder) ([ChatGPT](#chatgpt)) e uma plataforma [No-Code](#no-code) ([Lovable](#lovable)) para validar uma tese de negócios própria com motivação real e clara no mercado, contendo uma interface de cliente, formulários de triagem, [ganchos](#gancho) de conversão de [leads](#lead) e um painel administrativo funcional de controle de [leads](#lead)**.
 
-Este repositório reúne os bastidores de planejamento, lógica de processos e inteligência estratégica desse desafio, utilizando linguagem prática, acessível e com glossário retrátil separados por conceitos de mercado & negócios e conceitos técnicos & interface & engenharia de IA.
+Este repositório reúne os bastidores de planejamento, lógica de processos e inteligência estratégica desse desafio, utilizando linguagem prática, acessível e com glossário retrátil separados por conceitos de mercado & negócios e conceitos técnicos & interface & engenharia de IA.<br>
 
 ---
-
+<div align="left">
+  
 ## 🧬 Estrutura do Desafio | Índice Prático
 
-- 🛰️ 1. [A Dificuldade Real & a Visão do Negócio](a-dificuldade-real---a-visão-do-negócio) 
-- 📊 2. [Mercado & Negócios](mercado--negócios) 
-- 🧪 3. [A Tese do MVP & os Processos Manuais](a-tese-do-mvp--os-processos-manuais) 
-- 🤖 4. [Mega Prompt Otimizado & Correções Pós-Teste](mega-prompt-otimizado--correções-pós-teste) 
+🛰️ 1. [A Dificuldade Real & a Visão do Negócio](a-dificuldade-real--a-visão-do-negócio)<br>
+
+📊 2. [Mercado & Negócios](mercado--negócios)<br>
+ 
+🧪 3. [A Tese do MVP & os Processos Manuais](a-tese-do-mvp--os-processos-manuais)
+ 
+🤖 4. [Mega Prompt Otimizado & Correções Pós-Teste](mega-prompt-otimizado--correções-pós-teste) <br>
 
 ---
 
@@ -36,7 +40,8 @@ Este repositório reúne os bastidores de planejamento, lógica de processos e i
 Empresários e profissionais que têm contato com parceiros de outros países entram em uma corrida contra o tempo devido à desorganização com fusos horários diferentes, gerando perdas críticas em prospecções e pedidos de cotação por puro atraso de resposta comercial.
 
 **O Problema Prático:** Responder por ordem de chegada ignora o horário de expediente de quem recebe. Se um e-mail de Lisboa for respondido quando o escritório de lá já fechou, a oportunidade pode ser perdida para a concorrência.
-**A Solução:** O **AGENTEX** ([aplicação](#aplicação) web que roda direto no navegador) distribuída e comercializada como um [SaaS tipo Freemium](#freemium), separa e ordena os e-mails recebidos automaticamente por prioridade de fuso horário internacional através do recurso [🧭 modo priorizar caixa de entrada], oferecendo um período de degustação grátis de 30 dias do Plano Padrão🔹.
+
+**A Solução:** O **AGENTEX** ([aplicação](#aplicação) web que roda direto no navegador) distribuída e comercializada como um [SaaS tipo Freemium](#freemium), separa e ordena os e-mails recebidos automaticamente por prioridade de fuso horário internacional através do recurso [🧭 modo priorizar caixa de entrada], oferecendo um período de degustação grátis de 30 dias do Plano Padrão🔹.<br>
 
 ---
 
@@ -53,6 +58,7 @@ Empresários e profissionais que têm contato com parceiros de outros países en
 *   **Canais de Vendas:** Atração direta de [leads](#lead) no LinkedIn e parcerias em comunidades de negócios [B2B](#b2b).
 
 ---
+
 ## 🧪 3. A Tese do [MVP](#mvp) & os Processos Manuais
 
 ### A Tese do [MVP](#mvp) (Mínimo Produto Viável)
@@ -72,14 +78,14 @@ A tese valida o interesse de pequenos empresários em automatizar a rotina de e-
 
 ## 🤖 4. [Mega Prompt](#mega) Otimizado & Correções Pós-Teste
 
-### [Mega Prompt](#mega) Otimizado
+### #️⃣ [Mega Prompt](#mega) Otimizado
 
 Para garantir que o software ficasse pronto e funcional logo na primeira tentativa, minimizando o uso de créditos na conta gratuita do [Lovable](#lovable), foi desenvolvido este [Mega Prompt](#mega) estruturado em [Markdown](#markdown), aplicando a [tipografia](#tipografia) corporativa **Segoe UI**, fixando dados estáticos de fuso horário e interface responsiva e cores de alto contraste em [Tailwind CSS](#css).
 
 <details>
-<summary><b>Clique para visualizar o [Mega Prompt](#mega) utilizado no [Lovable](#lovable)</b></summary>
+<summary><b> [ Clique para visualizar | o Mega Prompt utilizado no Lovable ]</b></summary>
 
-```[Markdown](#Markdown)
+[Markdown](#Markdown)
 # [MEGA PROMPT](#mega): AGENTEX ([versão BETA](#beta) v2 29/10/2026)
 
 ## 1. Visão Geral, Identidade Visual e Design ([UI](#ui)/[UX](#ux))
@@ -165,16 +171,28 @@ Ao clicar em [🧭 modo priorizar caixa de entrada], o software revela a estrutu
 - Uma tela com uma tabela simples contendo as colunas: nome do [lead](#lead), perfil (importador/exportador), recurso clicado, status (interessado na [versão Beta](#beta)), entregas pendentes, lembretes de retorno.
 
 - Salve as interações locais usando o banco interno gratuito do [Lovable Cloud](#cloud).
-```
+ 
 </details>
 
+---
 
-### 🔧 Correções Pós-Teste
+### 🧰 Correções Pós-Teste
 
 Após a primeira geração no Lovable, foram aplicadas duas novas versões para adequar às alterações/correções rápidas de [engenharia de prompts](#prompts) para blindar o layout e garantir o uso mínimo de créditos da plataforma:
 * v1. **Otimização de Processamento (Fuso Horário):** Substituição do cálculo dinâmico de horários por dados estáticos explícitos para cada país (PT: 16h | CL: 13h | US: 12h | QA: 19h | JP: 01h), poupando créditos de IA.
 * v2.1 **Melhoria e alteração do título:** Ajuste de "O organizador inteligente de e-mail do comércio exterior" para inclusão do nome do software + mudança para um título mais robusto condizente com a aplicação AGENTEX \| O gerenciador de fluxo de e-mail ideal para o comércio exterior.
 * v2.2. **Correção de Acessibilidade & [UX](#ux) (Contraste Visual):** Ajuste fino nas classes do [Tailwind CSS](#css) do botão de conversão da pop-up (`bg-slate-900` com ponto de notificação `bg-emerald-500`), eliminando cores amadoras e garantindo alto contraste corporativo.
+
+---
+
+### 🔄 Sincronização & Proteção do Código-Fonte
+
+O repositório técnico restrito à programação bruta do aplicativo foi exportado de forma nativa pela Inteligência Artificial do Lovable e está hospedado publicamente. Para proteger a integridade do MVP avaliado e resguardar os direitos autorais, o arquivo `README.md` daquela pasta foi customizado sob as seguintes diretrizes:
+
+*   **Identidade Visual:** Vinculação e direcionamento explícito ao [🌌 Hub Panorâmico Visual](https://github.com), resguardando a narrativa gráfica autoral das telas e componentes.
+*   **Colaboração Segura:** Convite à comunidade e profissionais de comércio exterior para debater novas ferramentas e evoluções utilizando estritamente a aba **Issues**, mantendo o código-fonte original trancado contra alterações diretas.
+*   **Nota de Segurança:** Desativação de *Pull Requests* diretos para blindar a aplicação contra panes técnicas e garantir a estabilidade do software durante o período de avaliação do bootcamp.
+
 ---
 
 ## 📈 Estratégias Comerciais
@@ -182,6 +200,8 @@ Após a primeira geração no Lovable, foram aplicadas duas novas versões para 
 O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2B](#b2b) através do [modelo de **comercialização SaaS (Software como Serviço)** baseado na estratégia de aquisição de clientes (precificação) Freemium](#freemium):
 *   **Degustação de 30 Dias (Plano Padrão🔹):** O usuário experimenta gratuitamente o `🧭 modo priorizar caixa de entrada`. Uma automação inteligente para ordenar a fila de atendimento no início do dia de trabalho por fuso horário.
 *   **Barreiras Visuais Premium 🔼 e [Paywall](#paywall) (Plano Pro 💠):** O botão inteligente `[0️⃣ modo zerar caixa de entrada]` de resposta automática multilíngue de [contingência](#contingência) opera bloqueado com opacidade reduzida sob um selo roxo corporativo "PRO 💠". O clique abre uma simulação informativa e direciona o usuário a assinar a versão SaaS completa (Plano Pro 💠) via suporte humano premium 🔼, validando a intenção de compra imediata.
+
+---
 
 ## ☑️ Checklist de Requisitos do Enunciado
 
@@ -199,6 +219,8 @@ O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2
 | ✔️ | **Endereço da aplicação publicada** | [Link da Aplicação no Lovable](https://agentex-mvp-beta.lovable.app) |
 | ✔️ | **Repositório técnico (código bruto ) do software exportado e gerado por IA (Lovable)** | [Acessar Código-Fonte do Software](https://github.com/Kat-Ak/agentex-mvp-beta)
 
+---
+
 ## 🏆 Conclusão | Melhorias & Próximos Passos
 
 O desenvolvimento do software *AGENTEX* demonstrou a viabilidade de modelar um negócio internacional [B2B](#b2b) digital complexo sem digitação de código tradicional. Com um planejamento inteligente de processos aplicado ao uso combinado de [engenharia de prompts](#prompts) com [mega prompt](#mega) no [Lovable](#Lovable), guiamos a inteligência artificial para construir um [MVP](#mvp) interativo, seguro e funcional com uso mínimo de créditos.
@@ -209,12 +231,14 @@ Próximos Passos (Evolução)
 • Integração do [Stripe](#stripe) [checkout](#checkout): configurar o período de teste gratuito (trial) de 30 dias no 🔹 Plano Padrão, realizando a primeira cobrança recorrente automática apenas após o vencimento deste prazo. E implementar o [Paywall](#paywall) no 0️⃣ Modo Zerar Caixa de Entrada que direcione para a página do [Stripe](#stripe), processando pagamento/upgrade imediato, para liberar o recurso instantaneamente após a confirmação da transação.
 • Disparo Automático de [Leads](#lead): Configurar a chave do [Resend](#resend) para alertar o e-mail do administrador a cada novo [lead](#lead) coletado no formulário ou cliques nos [ganchos](#gancho) do WhatsApp.
 
+---
+
 ## 🆘 Central SOS (Glossário Retrátil)
 
 Se você tiver dúvidas sobre os termos utilizados neste projeto, clique nas setinhas abaixo para abrir a nossa biblioteca de conceitos:
 
 <details>
-  <summary> Clique para expandir o glossário 📇 CONCEITOS DE MERCADO & NEGÓCIOS</summary>
+  <summary> [ Clique para expandir o glossário | 📇 CONCEITOS DE MERCADO & NEGÓCIOS ] </summary>
 
 <a id="b2b"></a>
 ### B2B
@@ -292,7 +316,7 @@ SaaS Tipo Freemium: É uma estratégia de negócios onde o software é hospedado
 </details>
 
 <details>
-  <summary> Clique para expandir o glossário 🧰 CONCEITOS TÉCNICOS & INTERFACE & ENGENHARIA DE IA</summary>
+  <summary> [ Clique para expandir o glossário | 🧰 CONCEITOS TÉCNICOS & INTERFACE & ENGENHARIA DE IA ]</summary>
 
 <a id="agente"></a>
 ### Agente de IA
