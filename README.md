@@ -193,7 +193,7 @@ O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2
 | ✔️ | **Captura de tela 1: landing page** | [`print_tela/landing_page.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/60c839ff38b29db300f7ff0b9e74c84b12074079/print_tela/landing_page.png) |
 | ✔️ | **Captura de tela 2: formulário de perfil** | [`print_tela/formulario_perfil.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/77b5a62c3b1a5789aa615f7159660994bab38c90/print_tela/formulario_perfil.png) |
 | ✔️ | **Captura de tela 3: conversão via Whatsapp** | [`print_tela/conversao_whatsapp.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/04ea83593bfa5ec2b9051c80afa0fe24f6f329fa/print_tela/conversao_whatsapp.png) |
-| ✔️ | **Captura de tela 4: painel admin (leads, clientes, entregas e lembretes)** | `print_tela/painel_admin.png` |
+| ✔️ | **Captura de tela 4: painel admin (leads, clientes, entregas e lembretes)** | [`print_tela/painel_admin.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/331e9ed830fffb8e2274853a34a3a1a0339dc27e/print_tela/painel_admin.png) |
 | ✔️ | **Segurança da Informação sem chaves de API expostas ou senhas salvas** | [Nenhum problema de Segurança encontrado] |
 | ✔️ | **Endereço da aplicação publicada** | [Link da Aplicação no Lovable](https://agentex-mvp-beta.lovable.app) |
 
