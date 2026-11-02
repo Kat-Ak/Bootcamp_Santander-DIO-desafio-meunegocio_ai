@@ -83,7 +83,7 @@ A tese valida o interesse de pequenos empresários em automatizar a rotina de e-
 Para garantir que o software ficasse pronto e funcional logo na primeira tentativa, minimizando o uso de créditos na conta gratuita do [Lovable](#lovable), foi desenvolvido este [Mega Prompt](#mega) estruturado em [Markdown](#markdown), aplicando a [tipografia](#tipografia) corporativa **Segoe UI**, fixando dados estáticos de fuso horário e interface responsiva e cores de alto contraste em [Tailwind CSS](#css).
 
 <details>
-<summary><b> [ Clique para visualizar | o Mega Prompt utilizado no Lovable ]</b></summary>
+ <summary><b> [ 🖇️ Clique para visualizar | o Mega Prompt utilizado no Lovable ]</b></summary>
 
 [Markdown](#Markdown)
 # [MEGA PROMPT](#mega): AGENTEX ([versão BETA](#beta) v2 29/10/2026)
