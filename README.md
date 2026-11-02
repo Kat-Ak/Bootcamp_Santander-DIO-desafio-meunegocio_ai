@@ -7,8 +7,9 @@
 </div>
 <h2 align="center">
 Desafio 2 | MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable<br>
-[ Bootcamp | Construa seu primeiro App com IA ]<br>
-Santander em parceria com a plataforma da DIO
+  
+`[ Bootcamp | Construa seu primeiro App com IA ]`<br>
+  *Santander em parceria com a plataforma da DIO* 
 <p align="center">
   </div>
   
