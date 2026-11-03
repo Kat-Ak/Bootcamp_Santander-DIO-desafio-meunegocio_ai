@@ -18,7 +18,7 @@
 
 A proposta desse desafio é **construir do zero um [MVP](#mvp) (Mínimo Produto Viável) de um produto digital real utilizando a IA como [Co-Founder](#co-founder) ([ChatGPT](#chatgpt)) e uma plataforma [No-Code](#no-code) ([Lovable](#lovable)) para validar uma tese de negócios própria com motivação real e clara no mercado, contendo uma interface de cliente, formulários de triagem, [ganchos](#gancho) de conversão de [leads](#lead) e um painel administrativo funcional de controle de [leads](#lead)**.
 
-Este repositório reúne os bastidores de planejamento, lógica de processos e inteligência estratégica desse desafio, utilizando linguagem prática, acessível e com glossário retrátil separados por conceitos de mercado & negócios e conceitos técnicos & interface & engenharia de IA.<br>
+Este repositório reúne os bastidores de planejamento, lógica de processos e inteligência estratégica desse desafio, utilizando linguagem prática, acessível e com glossário retrátil separado por conceitos de mercado & negócios e conceitos técnicos & interface & engenharia de IA.<br>
 
 ---
 <div align="left">
