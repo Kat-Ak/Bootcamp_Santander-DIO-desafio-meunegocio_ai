@@ -54,7 +54,7 @@ Empresários e profissionais que têm contato com parceiros de outros países en
 
 ### Quadro de Modelo de Negócios ([Business Model Canvas](#canvas))
 *   **Proposta de Valor:** Automação inteligente da fila de atendimento de e-mails internacionais que se auto-organiza visualmente por fusos horários, minimizando perdas por atraso operacional.
-*   **Fontes de Receita:** [Modelo de distribuição e comercialização SaaS tipo freemium](#freemium) baseado em assinaturas recorrentes. O usuário experimenta a plataforma na degustação grátis de 30 dias do Plano Padrão 🔹, enquanto o recurso automático avançado premium 🔼 atua como barreira de upgrade exclusivo da assinatura do Plano Pro 💠.
+*   **[Fontes de Receita](#receita):** [Modelo de distribuição e comercialização SaaS tipo freemium](#freemium) baseado em assinaturas recorrentes. O usuário experimenta a plataforma na degustação grátis de 30 dias do Plano Padrão 🔹, enquanto o recurso automático avançado premium 🔼 atua como barreira de upgrade exclusivo da assinatura do Plano Pro 💠.
 *   **Canais de Vendas:** Atração direta de [leads](#lead) no LinkedIn e parcerias em comunidades de negócios [B2B](#b2b).
 
 ---
