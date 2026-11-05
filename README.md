@@ -8,7 +8,7 @@
  
   ---
 
-> ### `Desafio 2  |  MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable` 
+> ### `Desafio 2 | MeuNegócio.AI: Construindo um Produto Digital com Agentes de IA e Lovable` 
 > ###  [ Bootcamp | Construa seu primeiro App com IA ]
 > ###  *Santander em parceria com a plataforma da DIO*
   
@@ -16,7 +16,7 @@
 
 ## 📟 Resumo do Enunciado
 
-A proposta desse desafio é **construir do zero um [MVP](#mvp) (Mínimo Produto Viável) de um produto digital real utilizando a IA como [Co-Founder](#co-founder) ([ChatGPT](#chatgpt)) e uma plataforma [No-Code](#no-code) ([Lovable](#lovable)) para validar uma tese de negócios própria com motivação real e clara no mercado, contendo uma interface de cliente, formulários de triagem, [ganchos](#gancho) de conversão de [leads](#lead) e um painel administrativo funcional de controle de [leads](#lead)**.
+A proposta desse desafio é **construir do zero um [MVP](#mvp) (Mínimo Produto Viável) de um produto digital real utilizando a IA como [Co-Founder](#co-founder) ([ChatGPT](#chatgpt)) e uma plataforma [No-Code](#no-code) ([Lovable](#lovable)) para validar uma tese de negócios própria com motivação real e clara no mercado, contendo uma [interface](#interface) de cliente, formulários de triagem, [ganchos](#gancho) de conversão de [leads](#lead) e um painel administrativo funcional de controle de [leads](#lead)**.
 
 Este repositório reúne os bastidores de planejamento, lógica de processos e inteligência estratégica desse desafio, utilizando linguagem prática, acessível e com glossário retrátil separado por conceitos de mercado & negócios e conceitos técnicos & interface & engenharia de IA.<br>
 
@@ -179,19 +179,19 @@ Ao clicar em [🧭 modo priorizar caixa de entrada], o software revela a estrutu
 ### 🧰 Correções Pós-Teste
 
 Após a primeira geração no Lovable, foram aplicadas duas novas versões para adequar às alterações/correções rápidas de [engenharia de prompts](#prompts) para blindar o layout e garantir o uso mínimo de créditos da plataforma:
-* v1. **Otimização de Processamento (Fuso Horário):** Substituição do cálculo dinâmico de horários por dados estáticos explícitos para cada país (PT: 16h | CL: 13h | US: 12h | QA: 19h | JP: 01h), poupando créditos de IA.
+* v1. **[Otimização](#otimização) de Processamento (Fuso Horário):** Substituição do cálculo dinâmico de horários por dados estáticos explícitos para cada país (PT: 16h | CL: 13h | US: 12h | QA: 19h | JP: 01h), poupando créditos de IA.
 * v2.1 **Melhoria e alteração do título:** Ajuste de "O organizador inteligente de e-mail do comércio exterior" para inclusão do nome do software + mudança para um título mais robusto condizente com a aplicação AGENTEX \| O gerenciador de fluxo de e-mail ideal para o comércio exterior.
-* v2.2. **Correção de Acessibilidade & [UX](#ux) (Contraste Visual):** Ajuste fino nas classes do [Tailwind CSS](#css) do botão de conversão da pop-up (`bg-slate-900` com ponto de notificação `bg-emerald-500`), eliminando cores amadoras e garantindo alto contraste corporativo.
+* v2.2. **Correção de Acessibilidade & [UX](#ux) (Contraste Visual):** Ajuste fino nas classes do [Tailwind CSS](#css) do botão de conversão da [pop-up](#pop-up) (`bg-slate-900` com ponto de notificação `bg-emerald-500`), eliminando cores amadoras e garantindo alto contraste corporativo.
 
 ---
 
-### 🔄 Sincronização & Proteção do Código-Fonte
+### 🔄 Sincronização & Proteção do [Código-Fonte](#fonte)
 
-O repositório técnico restrito à programação bruta do aplicativo foi exportado de forma nativa pela Inteligência Artificial do Lovable e está hospedado publicamente. Para proteger a integridade do MVP avaliado e resguardar os direitos autorais, o arquivo `README.md` daquela pasta foi customizado sob as seguintes diretrizes:
+O repositório técnico restrito à programação bruta do aplicativo foi exportado de forma nativa pela Inteligência Artificial do [Lovable](#lovable) e está hospedado publicamente. Para proteger a integridade do [MVP](#mvp) avaliado e resguardar os direitos autorais, o arquivo `README.md` daquela pasta foi [customizado](#customizado) sob as seguintes diretrizes:
 
 *   **Identidade Visual:** Vinculação e direcionamento explícito ao [🌌 Hub Panorâmico Visual](https://github.com), resguardando a narrativa gráfica autoral das telas e componentes.
-*   **Colaboração Segura:** Convite à comunidade e profissionais de comércio exterior para debater novas ferramentas e evoluções utilizando estritamente a aba **Issues**, mantendo o código-fonte original trancado contra alterações diretas.
-*   **Nota de Segurança:** Desativação de *Pull Requests* diretos para blindar a aplicação contra panes técnicas e garantir a estabilidade do software durante o período de avaliação do bootcamp.
+*   **Colaboração Segura:** Convite à comunidade e profissionais de comércio exterior para debater novas ferramentas e evoluções utilizando estritamente a aba **[Issues](#issue)**, mantendo o [código-fonte](#fonte) original trancado contra alterações diretas.
+*   **Nota de Segurança:** Desativação de *Pull Requests](#pull)* diretos para blindar a aplicação contra panes técnicas e garantir a estabilidade do software.
 
 ---
 
@@ -255,6 +255,11 @@ Se você tiver dúvidas sobre os termos utilizados neste projeto, clique nas set
 
 **Contingência:** Um recurso ou plano de segurança alternativo projetado para ser ativado em momentos de falhas, imprevistos ou panes técnicas (como a queda de um servidor ou falta de memória da IA), a fim de evitar gargalos (travamentos ou acúmulos de tarefas que atrasam todo o processo) e garantir a continuidade segura da operação, protegendo os dados. No Agentex, o recurso serve tanto para proteger o sistema contra panes tecnológicas quanto para resolver o gargalo do fim do expediente, permitindo responder automaticamente a todos os e-mails internacionais pendentes antes de fechar a fábrica.
 
+<a id="customizado"></a>
+### Customizado
+
+**Customizada/o / Customização:** O ato de personalizar e adaptar algo sob medida para atender exatamente às necessidades específicas de um determinado cenário ou cliente.
+
 <a id="escopo"></a>
 ### Escopo
 
@@ -292,6 +297,11 @@ SaaS Tipo Freemium: É uma estratégia de negócios onde o software é hospedado
 ### MVP
 
 **MVP (Mínimo Produto Viável):** Versão inicial e simplificada de um produto ou software (um protótipo), lançada no mercado com o menor custo e tempo possíveis, contendo apenas as funções principais para começar a rodar. Permite testar a ideia na prática e validar o interesse do mercado antes de investir em um desenvolvimento pesado. Ver se os clientes gostam da solução e faturar os primeiros reais. Usar os comentários dos usuários reais para melhorar o sistema aos poucos.
+
+<a id="otimizado"></a>
+### Otimizado
+
+**Otimizada/o / Otimização:** O processo de melhorar, aperfeiçoar e deixar algo mais eficiente, enxuto e performático para alcançar o melhor resultado possível com o menor esforço ou desperdício.
 
 <a id="pt-pt"></a>
 ### PT-PT
@@ -369,6 +379,11 @@ Agente de IA (AI Agent) | (A Tecnologia): É um sistema inteligente de computado
 
 **Co-Founder (Co-Fundador):** O parceiro de negócios que ajuda a fundar a empresa. Neste projeto, o [ChatGPT](#chatgpt) foi utilizado como um co-founder analítico para validar o mercado e desenhar a lógica das regras operacionais.
 
+<a id="fonte"></a>
+### Código-Fonte
+
+**Código-Fonte / Código Bruto:** O conjunto original de linhas de texto e instruções lógicas escritas em linguagem de programação que os desenvolvedores ou as IAs criam para fazer o aplicativo funcionar por trás das telas.
+
 <a id="prompt"></a>
 ### Engenharia de Prompt
 
@@ -383,6 +398,16 @@ Agente de IA (AI Agent) | (A Tecnologia): É um sistema inteligente de computado
 ### Google Tarefas
 
 **Google Tarefas:** Ferramenta de produtividade que usa o modelo de tópicos de listas verticais que você vai riscando, embora em algumas visualizações integradas (como no Google Agenda ou no painel lateral do Gmail), também se comporte como uma caixinha de controle de status, facilitando o controle de tarefas.
+
+<a id="interface"></a>
+### Interface
+
+**Interface:** Toda a parte visual do sistema com a qual o usuário interage diretamente (as telas, as caixas de texto, as cores e os botões). É a "ponte" entre o ser humano e as linhas de código do computador.
+
+<a id="issue"></a>
+### Issues
+
+**Issues (Aba de Discussões):** Um painel público em formato de fórum dentro do GitHub utilizado para que usuários e a comunidade abram chamados, tirem dúvidas, relatem problemas ou debatam sugestões de melhorias sobre o projeto.
 
 <a id="landing"></a>
 ### Landing Page
@@ -429,6 +454,11 @@ Cria o banco de dados para salvar informações de forma segura, gerencia o cada
 ### Pop-up
 
 **Pop-up:** Elemento de interface visual que surge subitamente centralizado na frente da tela principal do site após um clique para prender a atenção do usuário, borrando e escurecendo de leve o fundo da página. Costuma ser uma caixinha utilizada para exibir avisos urgentes, mensagens de [contingência](#contingência), formulários elegantes ou conteúdos complementares importantes sem tirar o usuário da página atual.
+
+<a id="pull"></a>
+### Pull Requests
+
+**Pull Requests (Pedidos de Alteração de Código):** É uma solicitação formal feita por outro programador para enviar e misturar uma alteração de código dele dentro do seu arquivo original. Bloquear esse recurso protege o software contra alterações acidentais de terceiros.
 
 <a id="resend"></a>
 ### Resend
