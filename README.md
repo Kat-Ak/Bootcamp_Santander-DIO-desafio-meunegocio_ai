@@ -495,6 +495,7 @@ Cria o banco de dados para salvar informações de forma segura, gerencia o cada
 
 **UX (User Experience / Experiência do Usuário):** Planeja como o usuário se sente ao navegar pelo sistema, mapeando a jornada do cliente para garantir que o software seja fácil, lógico, intuitivo e totalmente sem complicações.
 </details>
+
 ---
 
 
