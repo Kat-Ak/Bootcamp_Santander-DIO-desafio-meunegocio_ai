@@ -62,7 +62,7 @@ Empresários e profissionais que têm contato com parceiros de outros países en
 ## 🧪 3. A Tese do [MVP](#mvp) & os Processos Manuais
 
 ### A Tese do [MVP](#mvp) (Mínimo Produto Viável)
-A nossa tese que o [MVP](#mvp)(Mínimo Produto Viável) precisa testar é: *"O pequeno empresário iniciante no mercado internacional tem interesse em um software que automatize sua rotina de e-mails recebidos, ordenando, filtrando e separando em caixinhas visuais de prioridade, que se auto-organizam em tempo real por fuso horário do país de origem enviado, para que seja atendido primeiro quem ainda não encerrou o expediente e pode estar esperando um retorno, minimizando perdas de negócios e contratos por demora no tempo de resposta? E caso não seja possível responder esses e-mails recebidos, 30 minutos antes do fim do expediente, através de um único botão inteligente enviar respostas automáticas para todos os e-mails no idioma recebido, buscando ter um bom padrão no nível de relacionamento comercial?"*
+A nossa tese que o [MVP](#mvp) (Mínimo Produto Viável) precisa testar é: *"O pequeno empresário iniciante no mercado internacional tem interesse em um software que automatize sua rotina de e-mails recebidos, ordenando, filtrando e separando em caixinhas visuais de prioridade, que se auto-organizam em tempo real por fuso horário do país de origem enviado, para que seja atendido primeiro quem ainda não encerrou o expediente e pode estar esperando um retorno, minimizando perdas de negócios e contratos por demora no tempo de resposta? E caso não seja possível responder esses e-mails recebidos, 30 minutos antes do fim do expediente, através de um único botão inteligente enviar respostas automáticas para todos os e-mails no idioma recebido, buscando ter um bom padrão no nível de relacionamento comercial?"*
 
 Pensando nisso, criamos O AGENTEX, uma [aplicação](#aplicação) web (software) que atua como um [Agente](#agente) de IA (identifica o fuso horário do país de origem, calcula o horário comercial de destino e toma a decisão autônoma de organizar aquela mensagem na caixinha de prioridade visual correta, além de disparar respostas multilíngues em momentos de [contingência](#contingência)), distribuída e comercializada como um [SaaS tipo freemium](#freemium) com período de oferta de degustação gratuita de 30 dias do Plano Padrão 🔹.
 
@@ -179,7 +179,7 @@ Ao clicar em [🧭 modo priorizar caixa de entrada], o software revela a estrutu
 ### 🧰 Correções Pós-Teste
 
 Após a primeira geração no Lovable, foram aplicadas duas novas versões para adequar às alterações/correções rápidas de [engenharia de prompts](#prompts) para blindar o layout e garantir o uso mínimo de créditos da plataforma:
-* v1. **[Otimização](#otimização) de Processamento (Fuso Horário):** Substituição do cálculo dinâmico de horários por dados estáticos explícitos para cada país (PT: 16h | CL: 13h | US: 12h | QA: 19h | JP: 01h), poupando créditos de IA.
+* v1. **[Otimização](#otimizado) de Processamento (Fuso Horário):** Substituição do cálculo dinâmico de horários por dados estáticos explícitos para cada país (PT: 16h | CL: 13h | US: 12h | QA: 19h | JP: 01h), poupando créditos de IA.
 * v2.1 **Melhoria e alteração do título:** Ajuste de "O organizador inteligente de e-mail do comércio exterior" para inclusão do nome do software + mudança para um título mais robusto condizente com a aplicação AGENTEX \| O gerenciador de fluxo de e-mail ideal para o comércio exterior.
 * v2.2. **Correção de Acessibilidade & [UX](#ux) (Contraste Visual):** Ajuste fino nas classes do [Tailwind CSS](#css) do botão de conversão da [pop-up](#pop-up) (`bg-slate-900` com ponto de notificação `bg-emerald-500`), eliminando cores amadoras e garantindo alto contraste corporativo.
 
@@ -215,7 +215,7 @@ O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2
 | ✔️ | **Captura de tela 2: formulário de perfil** | [`print_tela/formulario_perfil.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/77b5a62c3b1a5789aa615f7159660994bab38c90/print_tela/formulario_perfil.png) |
 | ✔️ | **Captura de tela 3: conversão via Whatsapp** | [`print_tela/conversao_whatsapp.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/04ea83593bfa5ec2b9051c80afa0fe24f6f329fa/print_tela/conversao_whatsapp.png) |
 | ✔️ | **Captura de tela 4: painel admin (leads, clientes, entregas e lembretes)** | [`print_tela/painel_admin.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/331e9ed830fffb8e2274853a34a3a1a0339dc27e/print_tela/painel_admin.png) |
-| ✔️ | **Revisão de segurança do Lovable** [Nenhum problema de Segurança encontrado] | [`print_tela/seguranca_lovable.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/eb3fda70afa8c34461dc4922c2e3041fa72573d6/print_tela/seguranca_lovable.png) |
+| ✔️ | **Captura de tela 5: revisão de segurança do Lovable** [Nenhum problema de Segurança encontrado] | [`print_tela/seguranca_lovable.png`](https://github.com/Kat-Ak/Bootcamp_Santander-DIO-desafio-meunegocio_ai/blob/eb3fda70afa8c34461dc4922c2e3041fa72573d6/print_tela/seguranca_lovable.png) |
 | ✔️ | **Endereço da aplicação publicada** | Link da [Aplicação no Lovable](https://agentex-mvp-beta.lovable.app) |
 | ✔️ | **Repositório técnico (código bruto) do software exportado e gerado por IA (Lovable)** | Acessar [Agentex MVP Beta \| Repositório Técnico (Código-Fonte)](https://github.com/Kat-Ak/agentex-mvp-beta) |
 
@@ -223,7 +223,7 @@ O software evidencia o potencial do negócio de conversão de [leads](#lead) [B2
 
 ## 🏆 Conclusão | Melhorias & Próximos Passos
 
-O desenvolvimento do software *AGENTEX* demonstrou a viabilidade de modelar um negócio internacional [B2B](#b2b) digital complexo sem digitação de código tradicional. Com um planejamento inteligente de processos aplicado ao uso combinado de [engenharia de prompts](#prompts) com [mega prompt](#mega) no [Lovable](#Lovable), guiamos a inteligência artificial para construir um [MVP](#mvp) interativo, seguro e funcional com uso mínimo de créditos.
+O desenvolvimento do software *AGENTEX* demonstrou a viabilidade de modelar um negócio internacional [B2B](#b2b) digital complexo sem digitação de código tradicional. Com um planejamento inteligente de processos aplicado ao uso combinado de [engenharia de prompts](#prompt) com [mega prompt](#mega) no [Lovable](#Lovable), guiamos a inteligência artificial para construir um [MVP](#mvp) interativo, seguro e funcional com uso mínimo de créditos.
 
 Próximos Passos (Evolução)
 
