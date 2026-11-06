@@ -147,7 +147,7 @@ Ao clicar em [🧭 modo priorizar caixa de entrada], o software revela a estrutu
 
 - Ação ao clicar: Abre uma janela [pop-up](#pop-up) elegante mostrando as [minutas](#minuta) padrão de e-mail de resposta automática do AGENTEX nos 3 idiomas:
 
-- Versão [PT-PT](#pt-pt)[padrão internacional]: "Agradecemos o contacto. Confirmamos a receção do e-mail e informamos que a sua solicitação já se encontra em análise pela nossa equipa. Devido ao elevado volume de pedidos, daremos uma resposta definitiva o mais breve possível."
+- Versão [PT-PT](#pt-pt) [padrão internacional]: "Agradecemos o contacto. Confirmamos a receção do e-mail e informamos que a sua solicitação já se encontra em análise pela nossa equipa. Devido ao elevado volume de pedidos, daremos uma resposta definitiva o mais breve possível."
 - Versão EN: "Thank you for your message. We have successfully received your email and our team is currently reviewing your request. Due to high demand, we will get back to you with a detailed response as soon as possible."
 - Versão ES: "Gracias por su contacto. Confirmamos la recepción de su correo electrónico e informamos que nuestro equipo ya se encuentra analizando su solicitud. Debido a la alta demanda, le responderemos formalmente lo antes posible."
 - Mensagem de trava comercial: "Esta é uma demonstração do recurso do botão inteligente chamado [0️⃣ modo zerar caixa de entrada] de resposta automática multilíngue de [contingência](#contingência) recurso automático avançado premium 🔼 exclusivo para assinantes do Plano Pro 💠. Com ele nenhum e-mail ficará mais sem resposta! Envio de respostas automáticas no idioma do país de origem do e-mail, faltando 30 minutos para o fim do expediente."
